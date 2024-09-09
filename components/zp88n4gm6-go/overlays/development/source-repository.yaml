@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zp88n4gm6-go-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/zp88n4gm6-go
